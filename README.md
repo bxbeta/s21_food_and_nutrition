@@ -1,4 +1,4 @@
-# Sber School 21 application food&nutrition
+# Школа 21 (Сбер) приложение food&nutrition
 
 ## 📌 О проекте
 
